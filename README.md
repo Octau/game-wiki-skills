@@ -1,4 +1,4 @@
-# game-wiki-skills
+# milky-way-idle-skill
 
 Claude AI skills built from game wiki pages, designed to help Claude answer in-game questions accurately — from mechanics and item stats to combat and crafting.
 
